@@ -1,0 +1,12 @@
+Escolha o atributo para comparação:
+1 - População
+2 - Área
+3 - PIB
+4 - Número de pontos turísticos
+5 - Densidade demográfica
+6 - Sair
+Digite o número da sua escolha: 1
+Comparando População:
+São Paulo: 12325000
+Rio de Janeiro: 6748000
+São Paulo venceu!
